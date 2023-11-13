@@ -1,11 +1,11 @@
 # Projeto_previsao_tempo
 
+
+![app_clima-tempo](https://github.com/saniodev/Projeto_previsao_tempo/assets/93998809/00405db4-f90a-42d7-8b89-355ee8d764f7)
+
 <div align="center">
   <img align="left" height="250" src="https://github.com/saniodev/SanioDev/assets/93998809/012c92a5-7758-4d9c-b1af-c7bbfff6faf7"/>
 </div>
-
-
-
 
  ## Instruções Gerais
 
